@@ -28,6 +28,11 @@ https://jsfiddle.net/Danielsantafeospina341911515/dz6omnfL/12/
 ![Imagen5](https://user-images.githubusercontent.com/61298481/80561040-ba388a00-89a8-11ea-8009-e4be4d04c3f7.png)
 
 
+Adjunto link del ejercico c en jsfiddle
+
+https://jsfiddle.net/Danielsantafeospina341911515/dz6omnfL/23/
+
+
 
 
 
