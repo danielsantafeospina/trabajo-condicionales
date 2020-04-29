@@ -14,3 +14,8 @@ https://jsfiddle.net/Danielsantafeospina341911515/5xo6Lr18/15/
 ![Imagen2](https://user-images.githubusercontent.com/61298481/80557579-08479080-899d-11ea-9d12-e6a72cd5820e.png)
 
 
+https://github.com/danielsantafeospina/trabajo-condicionales/issues/1#issuecomment-620974594
+
+
+
+
