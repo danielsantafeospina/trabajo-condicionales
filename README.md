@@ -21,4 +21,9 @@ https://jsfiddle.net/Danielsantafeospina341911515/5xo6Lr18/15/
 
 Adjunto link del ejercico B en jsfiddle
 
+https://jsfiddle.net/Danielsantafeospina341911515/dz6omnfL/12/
+
+
+
+
 
