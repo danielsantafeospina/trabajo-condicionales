@@ -39,6 +39,10 @@ https://jsfiddle.net/Danielsantafeospina341911515/dz6omnfL/23/
 
 
 
+https://github.com/danielsantafeospina/trabajo-condicionales/issues/1#issuecomment-620988429
+
+
+
 Adjunto link del ejercicio d en jsfiddle
 
 https://jsfiddle.net/Danielsantafeospina341911515/46x5tv3c/26/
