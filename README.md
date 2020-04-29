@@ -23,6 +23,9 @@ Adjunto link del ejercico B en jsfiddle
 
 https://jsfiddle.net/Danielsantafeospina341911515/dz6omnfL/12/
 
+![Imagen4](https://user-images.githubusercontent.com/61298481/80560875-25ce2780-89a8-11ea-9d2b-3e2d94436de4.png)
+
+
 
 
 
