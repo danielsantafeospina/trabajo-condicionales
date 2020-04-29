@@ -39,7 +39,8 @@ https://jsfiddle.net/Danielsantafeospina341911515/dz6omnfL/23/
 
 
 
-https://github.com/danielsantafeospina/trabajo-condicionales/issues/1#issuecomment-620988429
+![Imagen7](https://user-images.githubusercontent.com/61298481/80562009-f8837880-89ab-11ea-8e92-ab43d02011b8.png)
+
 
 
 
