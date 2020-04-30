@@ -68,4 +68,10 @@ https://jsfiddle.net/Danielsantafeospina341911515/qwua65xf/3/
 
 ![Imagen11](https://user-images.githubusercontent.com/61298481/80764232-d867cc80-8b05-11ea-9f32-010696341dbd.png)
 
+Adjunto link del ejercicio 2-b en jsfiddle
+
+https://jsfiddle.net/Danielsantafeospina341911515/ud5479sk/27/
+
+
+
 
