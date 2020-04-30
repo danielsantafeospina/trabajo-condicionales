@@ -72,6 +72,8 @@ Adjunto link del ejercicio 2-b en jsfiddle
 
 https://jsfiddle.net/Danielsantafeospina341911515/ud5479sk/27/
 
+![Imagen12](https://user-images.githubusercontent.com/61298481/80766168-66de4d00-8b0a-11ea-9993-260643d3d638.png)
+
 
 
 
