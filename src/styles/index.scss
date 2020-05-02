@@ -3,33 +3,39 @@
 
 
 
-.my-card{  
-  background-color:green;
+
+.my-card{
   max-width: 400px;
   margin : 20px;
   .form-inline{
     margin-bottom: 20px;
-
+    input{
+      margin-left: 20px;
     }
   }
+}
 
 
 const inputNumberOne = document.getElementById("numberOne");
 const inputNumberTwo = document.getElementById("numberTwo");
+const inputNumberThree = document.getElementById("numberThree");
 const h5Result = document.getElementById("result");
+const h5nota = document.getElementById("nota");
 
 function calculate() {
   const n1 = parseInt(inputNumberOne.value);
   const n2 = parseInt(inputNumberTwo.value);
-  if(hasDataAnError(n1, n2)){
+  const n3 = parseInt(inputNumberThree.value);
+ 
+  if(hasDataAnError(n1, n2, n3)){
     onError();
     return;
   }
-  onSuccess(n1, n2);
+  onSuccess(n1, n2, n3);
 }
 
-function hasDataAnError(n1, n2){
-  return !n1 || !n2;
+function hasDataAnError(n1, n2, n3){
+  return !n1 || !n2  || !n3;
 }
 
 function onError(){
@@ -37,24 +43,28 @@ function onError(){
     h5Result.classList.add("text-danger");
 }
 
-function onSuccess(n1, n2){
-    h5Result.innerHTML = add(n1, n2);
+function onSuccess(n1, n2, n3){
+    h5Result.innerHTML = add(n1, n2, n3);
     h5Result.classList.remove("text-danger");
 }
 
-function add(n1,n2){
-  return n1+n2; 
+function add(n1, n2, n3,){
+  return n1+n2+n3 /3; 
 }
 
-$(document).ready(function() {
-    $('div').hover(
-        function () {
-            
-            $(this).css({"background-color":"red"});
-        }, 
-        function () {
-            
-            $(this).css({"background-color":"blue"});
-        }
-    );
-});
+function nota(n1, n2, n3,){
+
+if (n1+n2+n3 /3 >=7 ) {
+ h5nota.innerHTML = "Aprobado";
+
+} else {
+ h5Resulnota.innerHTML = "Reprobado";
+}
+}
+
+
+ 
+
+
+
+
