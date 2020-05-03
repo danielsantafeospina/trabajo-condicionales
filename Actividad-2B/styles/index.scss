@@ -1,0 +1,18 @@
+@import "~bootstrap/scss/bootstrap";
+@import "./home.scss";
+
+
+
+
+.my-card{
+  max-width: 400px;
+  margin : 20px;
+  .form-inline{
+    margin-bottom: 20px;
+    input{
+      margin-left: 20px;
+    }
+  }
+}
+
+
