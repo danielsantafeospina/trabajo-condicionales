@@ -1,6 +1,4 @@
-import '../styles/index.scss';
 
-import 'bootstrap';
 
 console.log('webpack starterkit');
 
@@ -35,16 +33,3 @@ function onSuccess(n1, n2){
 function add(n1,n2){
   return n1+n2; 
 }
-
-$(document).ready(function() {
-    $('div').hover(
-        function () {
-            
-            $(this).css({"background-color":"red"});
-        }, 
-        function () {
-            
-            $(this).css({"background-color":"blue"});
-        }
-    );
-});
